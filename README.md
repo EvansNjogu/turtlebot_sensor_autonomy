@@ -58,7 +58,7 @@ Upon completion, the robot autonomously responds to sensor data in real-time as 
 
 ## License 
 
-This project is licensed under the MIT License,feel free to modify and use it for your personal projects.
+This project is licensed under the MIT License,feel free to modify & use it for your personal projects.
 
 ## Contact
 
