@@ -21,7 +21,7 @@ A sensor was received with little documentation regarding its behavior. Through 
 ## Subtasks
 The project is structured to address the following tasks:
 1. **Install the sensor package** – Unzip and install the provided `midterm_sensor_1` package.
-2. **Message Investigation** – Analyze the topics & message types to understand how sensor data is transmitted.
+2. **Message Investigation** – Analyze the topics and message types to understand how sensor data is transmitted.
 3. **Package Creation** – Develop a ROS package named after the provided Neptune code.
 4. **Sensor Subscription** – Create a ROS node that subscribes to sensor data.
 5. **TurtleSim Commanding** – Modify the node to send movement commands to TurtleSim based on sensor input.
